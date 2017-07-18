@@ -1,5 +1,6 @@
 {
-  "name": "relay-compiler-typescript",
+  "name": "@secoya/relay-compiler-typescript",
+  "access": "public",
   "version": "1.0.0",
   "description": "TypeScript transformation for Relay Modern compiler",
   "main": "index.js",
